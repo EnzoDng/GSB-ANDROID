@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GSB</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="quitter">Quitter</string>
+    <string name="saisir_ici_un_stock">Saisir ici un stock</string>
+    <string name="saisie_d_un_chantillon">Saisie d’un échantillon :</string>
+    <string name="saisir_ici_un_code">Saisir ici un code</string>
+    <string name="saisir_ici_un_libell">Saisir ici un libellé</string>
+    <string name="textview">TextView</string>
+    <string name="maj_d_un_chantillon">MAJ d’un échantillon :</string>
+    <string name="saisir_ici_une_quantit">Saisir ici une quantité</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="textviewMAJEchantillon">TextView</string>
+    <string name="listeechantillon">ListeEchantillon</string>
+    <string name="liste_des_chantillons">Liste des échantillons :</string>
+    <string name="appli_menu">Appli Menu</string>
+    <string name="appli_menu1">Appli Menu</string>
+    <string name="liste_des_echantillons">liste des echantillons</string>
+    <string name="appli_menu3">Appli Menu</string>
+    <string name="appli_menu4">Appli Menu</string>
+
+</resources>
